@@ -1,9 +1,10 @@
 {
   "blockDomains": [
-    "example.com",
-    "google.com",
-    "facebook.com",
-    "twitter.com"
+    "bifrost-api.hotstar.com",
+    "hesads.akamaized.net",
+    "service.hotstar.com",
+    "hspx.hotstar.com",
+    "usersvc.hotstar.com"
   ],
   "blockUrls": [
     "https://example.com/page1",
